@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Project_f1</string>
+    <string name="title_activity_turist_places">turistPlaces</string>
+    <string name="title_activity_detail_turist_place">detailTuristPlace</string>
+</resources>
